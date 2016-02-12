@@ -1,0 +1,1 @@
+This is a basic PHP project, that serves more as a tutorial on Linux command line GIT/Github use.
